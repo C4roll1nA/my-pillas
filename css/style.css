@@ -1,0 +1,14 @@
+article {
+    padding: 10px;
+    border: 1px solid #95a4a5;
+    width: 370px;
+}
+
+article > h2 {
+    background-color: #95a4a5;
+    color: white;
+    text-align: center;
+    margin: -10px;
+    margin-bottom:10px;
+}
+
